@@ -5,4 +5,4 @@ Join our [Discord Community](https://discord.gg/rDDqA83eGz)
 
 **Why do we have this organization ?**
 
-We provide open source projects which people can self host to improve customer experience in any way.
+We provide open source projects which people can self host to know their customers or improve customer experience in any way.
